@@ -11,3 +11,8 @@ You can use it you quickly save real-life chess games for later continuation, as
 ## Demo
 ![alt text](https://github.com/shainisan/real-life-chess-vision/blob/main/chess_vision_gif.gif?raw=true)
 
+## Instructions
+1. Download the chess-pieces detection YOLO model from [from this link](https://1drv.ms/u/s!AgTK8e6sG1rXhJdkX67sSPET8UiRyg?e=ztuuwy)
+ 
+2. Open app.ipynb - everything is in there.
+
